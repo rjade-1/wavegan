@@ -1,6 +1,6 @@
 # Train a WaveGAN
 
-Here is how you would begin (or resume) training a WaveGAN on random clips from a directory containing longer audio, i.e., more than a few seconds per file:
+using below command, training a WaveGAN on random clips from a directory containing longer audio can be done
 
 ```
 export CUDA_VISIBLE_DEVICES="0"
